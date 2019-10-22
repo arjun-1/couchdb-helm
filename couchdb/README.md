@@ -132,6 +132,7 @@ A variety of other parameters are also configurable. See the comments in the
 | `podManagementPolicy`           | Parallel                               |
 | `affinity`                      |                                        |
 | `annotations`                   |                                        |
+| `tolerations`                   |                                        |
 | `resources`                     |                                        |
 | `service.annotations`           |                                        |
 | `service.enabled`               | true                                   |
